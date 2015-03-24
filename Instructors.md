@@ -1,2 +1,5 @@
 # Instructors
 
+* Josh
+
+* Jordan
